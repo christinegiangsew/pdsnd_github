@@ -2,7 +2,7 @@
 
 ### Date created: 7/7/2023
 
-### Bikeshare Project!
+### Bikeshare Project
 
 ### Description
 Returns statistics of bikeshare data based on city and date.
